@@ -1,3 +1,3 @@
 # ---SE04
 
-main says "hahaha!"
+Another guy says "yayaya!"
